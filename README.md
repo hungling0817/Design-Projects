@@ -25,21 +25,33 @@
 * Poster design of movie Inception: 
 ![Poster Design](https://github.com/hungling0817/Design-Projects/blob/22b7f0aca4483511fdfc9ae3a6af28b1ef350ac3/movie%20poster%204.jpg "Poster Design")
 
+
+
+
 * Image merge based on the concept of movie Inception:
 
 
 ![Image Merge](https://github.com/hungling0817/Design-Projects/blob/22b7f0aca4483511fdfc9ae3a6af28b1ef350ac3/inception.jpg "Image Merge")
+
+
+
 
 * Image merge based on the concept of movie Inception: 
 
 
 ![Image Merge](https://github.com/hungling0817/Design-Projects/blob/22b7f0aca4483511fdfc9ae3a6af28b1ef350ac3/image%20merge.jpg "Image Merge")
 
+
+
+
 * Image merge of Utopia project: 
 
 
 
 ![Utopia template](https://github.com/hungling0817/Design-Projects/blob/22b7f0aca4483511fdfc9ae3a6af28b1ef350ac3/global%20template.jpg "Utopia template")
+
+
+
 
 * Utopia project:
 
